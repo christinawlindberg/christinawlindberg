@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="age.html" title="Age">Age</a>
+<a href="embed.html" title="Embed">Embed</a>
+
 <!--
 **christinawlindberg/christinawlindberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
